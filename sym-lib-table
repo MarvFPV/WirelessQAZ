@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ebastlisParts)(type Legacy)(uri "${KIPRJMOD}/kicad-keyboard-parts.pretty-master/Schematic Library/kicad-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name WirelessQAZ-rescue)(type Legacy)(uri ${KIPRJMOD}/WirelessQAZ-rescue.lib)(options "")(descr ""))
+)
