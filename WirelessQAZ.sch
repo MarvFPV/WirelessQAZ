@@ -969,7 +969,7 @@ F 3 "~" H 6550 5450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7750 5150 6950 5150
+	7750 5150 7550 5150
 Wire Wire Line
 	6950 5150 6950 5200
 Wire Wire Line
@@ -2219,4 +2219,14 @@ Wire Wire Line
 	5000 2000 10750 2000
 Wire Wire Line
 	5000 2650 10150 2650
+Text HLabel 7750 4750 2    50   Input ~ 0
+5V_USB
+Wire Wire Line
+	7550 5250 7550 5150
+Connection ~ 7550 5150
+Wire Wire Line
+	7550 5150 6950 5150
+Wire Wire Line
+	7750 4750 7750 5150
+Connection ~ 7750 5150
 $EndSCHEMATC
