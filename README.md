@@ -1,3 +1,6 @@
+# WARNING: Unsure if i ever fixed the electrical issues around the charging IC, please sanity check before using
+
+
 # QAZ-BLE
 
 a 34 key, QAZ style, integrated BLE keyboard.   
